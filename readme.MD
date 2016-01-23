@@ -1,5 +1,7 @@
 ## Machine learning - 2016 
 
+[![Join the chat at https://gitter.im/yandexdataschool/MLatImperial2016](https://badges.gitter.im/yandexdataschool/MLatImperial2016.svg)](https://gitter.im/yandexdataschool/MLatImperial2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Initial preparations
 
 First, we need to check that everything we need is working.
