@@ -9,7 +9,7 @@ so please before 25th Jan complete following steps:
   
 1. register at [github](https://github.com/) 
 2. register at [kaggle](https://www.kaggle.com/)
-3. login to [everware](https://everware.rep.school.yandex.net/) with your github account.
+3. login to [everware](https://everware.rep.school.yandex.net/) with your github account. Put `https://github.com/yandexdataschool/MLatImperial2016` as a git repository url and press launch.
    Everware will start a personal container (with copy of this repository)
 4. click on `0 - Initial notebook`. Run it (`Cell > Run All`) from the beginning up to the end. 
    It should generate a basic submission and provide a link to download it.
