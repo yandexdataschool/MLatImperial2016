@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/yandexdataschool/MLatImperial2016](https://badges.gitter.im/yandexdataschool/MLatImperial2016.svg)](https://gitter.im/yandexdataschool/MLatImperial2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Materials for the course of machine learning organized by Yandex Data School at Imperial College.
+Course on machine learning organized by [Yandex Data School] (https://yandexdataschool.com/) at Imperial College.
 
 ### Initial preparations
 
