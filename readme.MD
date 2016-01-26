@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/yandexdataschool/MLatImperial2016](https://badges.gitter.im/yandexdataschool/MLatImperial2016.svg)](https://gitter.im/yandexdataschool/MLatImperial2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Materials for the course of machine learning organized by Yandex Data School at Imperial College.
+Course on machine learning organized by [Yandex Data School] (https://yandexdataschool.com/) at Imperial College.
 
 ### Initial preparations
 
@@ -23,3 +23,7 @@ so please before 25th Jan complete following steps (this should take 5 - 10 minu
 
 
 In case of problems write to [gitter chat](https://gitter.im/yandexdataschool/MLatImperial2016).
+
+[Download first pack of lectures](https://yadi.sk/d/o6PNHUjmnjh9E)
+
+To dive faster into data analysis it is suggested to study the essentials of python and its scientific libraries using  [recommended tutorials](https://github.com/yandexdataschool/MLatImperial2016/wiki#tutorials). On the first seminar we will introduce them to you but to complete the excercises you will need to study most of them yourself. You can practice your skills by creating test ipython notebook on [everware](https://everware.rep.school.yandex.net/) or [install python on your computer](https://github.com/yandexdataschool/MLatImperial2016/wiki#install-python-on-your-computer).
